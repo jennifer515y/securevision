@@ -38,7 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'monitoreo',
-    'channels',
 ]
 ASGI_APPLICATION = 'monitoreo_sueno.asgi.application'
 
